@@ -1,0 +1,13 @@
+nav {
+    padding: 1em;
+    border:  1px solid grey;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.login {
+    
+    color: red;
+}
