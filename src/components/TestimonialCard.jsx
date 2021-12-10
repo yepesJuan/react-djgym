@@ -8,8 +8,6 @@ function TestimonialCard({ name, description, image }) {
             <h3>{name}</h3>
             <p>{description}</p>
             <img src={image}/>
-            </div>
-    )
-}
+        </div>
 
 export default TestimonialCard
