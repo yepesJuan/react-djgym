@@ -1,7 +1,6 @@
 import React from "react";
-//import Testimonials from "./components/Testimonials.jsx"
 
-function TestimonialCard({ name, description }) {
+function TestimonialCard({ name, description, image }) {
    // const { brand, type, name, price } = props
    // const brand = props.brand
     return  (
@@ -10,7 +9,5 @@ function TestimonialCard({ name, description }) {
             <p>{description}</p>
             <img src={image}/>
         </div>
-    )
-}
 
 export default TestimonialCard
