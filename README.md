@@ -1,5 +1,5 @@
 ## Basic react app
-A gym add web appcreated to see what we come up with limited time.
+A web app created to see what we come up with limited time.
 ### `yarn start`
 
 Runs the app in the development mode.\
